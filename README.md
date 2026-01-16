@@ -1,4 +1,4 @@
-# NewRepo
+# DBMS
 **Definition**
 
 A Database Management System (DBMS) is software that is used to create, manage, and manipulate databases. It allows users to store, organize, retrieve, and update data efficiently.
